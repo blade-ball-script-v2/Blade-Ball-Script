@@ -1,0 +1,1 @@
+console.log("Blade Ball Script is active!");
